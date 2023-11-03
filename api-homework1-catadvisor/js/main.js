@@ -23,5 +23,4 @@ function getFetch(){
         console.log(`error ${err}`)
         });
 }
-let smapleVariable = 25
 
