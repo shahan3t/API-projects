@@ -1,2 +1,2 @@
 # API-projects
-Sample API projects from 100Devs
+API projects from 100Devs
