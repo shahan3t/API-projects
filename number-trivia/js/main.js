@@ -20,14 +20,4 @@ function getFetch(){
   })
 }
 
-function getCount(str) {
-  let a = 0
-  str.split('').forEach((c) => {
-    if(c === 'a' || c === 'e' || c === 'i' || c === 'o' || c === 'u'){
-      a+=1
-    }
-  })
-  return a
- }
 
-getCount('aabb')
